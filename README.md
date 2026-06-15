@@ -15,3 +15,6 @@ The script performs automated checks to assist with Level 1 IT Support troublesh
 1. Open the terminal in the project folder.
 2. Run the script directly (no virtual environment or external libraries required): 
    `python3 diag.py`
+
+
+![Screenshot](images/1.png)
