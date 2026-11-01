@@ -1,8 +1,8 @@
-# IT Support Toolkit
+## Support Diagnostics Tool
 
 A lightweight CLI tool designed for quick, automated system and network diagnostics. Built entirely with Python's standard library, requiring no external dependencies.
 
-## What does this script do?
+### Current Features
 
 The script performs automated checks to assist with Level 1 IT Support troubleshooting:
 * **System Info:** Retrieves basic operating system and architecture details.
@@ -10,10 +10,10 @@ The script performs automated checks to assist with Level 1 IT Support troublesh
 * **Network Connectivity:** Verifies internet access by pinging Google's DNS (8.8.8.8).
 * **Local IP:** Resolves and displays the machine's local IP address on the network.
 
-## How to run it?
+### How to run
 
-1. Open the terminal in the project folder.
-2. Run the script directly (no virtual environment or external libraries required): 
+- Open the terminal in the project folder.
+- Run the script directly (no virtual environment or external libraries required): 
    `python3 diag.py`
 
 
