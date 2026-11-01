@@ -4,7 +4,7 @@ A lightweight CLI tool designed for quick, automated system and network diagnost
 
 ### Current Features
 
-The script performs automated checks to assist with Level 1 IT Support troubleshooting:
+The script performs automated checks to assist with troubleshooting:
 * **System Info:** Retrieves basic operating system and architecture details.
 * **Disk Usage:** Calculates total, used, and free space on the root drive.
 * **Network Connectivity:** Verifies internet access by pinging Google's DNS (8.8.8.8).
